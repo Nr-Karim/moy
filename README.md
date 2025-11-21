@@ -1,14 +1,7 @@
-# Kado
--Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
+## 🌸🤍 Untuk MOY Amanda Salsabila🌹
 
+Maaf, sepertinya memang aku yang kurang peka ^^
+Semoga kamu suka bunganya 🌸
 
-# Description
-Flower code tiktok trend 
-
-Responsive Web -- bisa langsung disesuikan di file css --> style.css
-
-# Author
-- Flower Code : Md Usman Ansari (@MdUsmanAnsari)
-- Index Code : Septian Dwi Cahyo (@Septiandwica)
-
-Thanks to codepan and mdusmanansari
+—
+_Wajid Nur Karim_
